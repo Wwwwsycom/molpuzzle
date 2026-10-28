@@ -1,0 +1,12 @@
+# Python/Jupyter runtime files
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
+
+# Generated results and local input spreadsheets.
+output/*.csv
+data/*.xlsx
+
+# Local environment
+.venv/
+.env
